@@ -1,0 +1,356 @@
+/* Artica Restaurant HTML Template */
+
+@media only screen and (max-width: 1340px){
+	
+	.page-wrapper{
+		overflow:hidden;	
+	}
+}
+
+@media only screen and (max-width: 1140px){
+	
+	.main-header{
+		margin:0px !important;
+	}
+	
+	.sidebar-page-container .sidebar{
+		margin-left:0px;	
+	}
+	
+	.sidebar-page-container .content-side{
+		padding-right:15px;	
+	}
+	
+	.volunteer-section .how-to-column .inner-box{
+		padding-left:0px;	
+	}
+	
+	.parallax-image-section,
+	.page-title{
+		padding:120px 0px;	
+	}
+	
+}
+
+@media only screen and (min-width: 1025px){
+	.hidden-bar.right-align.visible-sidebar{
+		right:-400px !important;	
+	}
+	
+	.dishes-column .inner-box{
+		padding-left:0px;
+	}
+	
+	.gallery-item .image-box .title-box{
+		font-size:18px;
+	}
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+	
+	
+	
+}
+
+@media only screen and (max-width: 1023px){
+	
+	
+	.main-header .main-box .logo-box {
+		position:relative;
+		left:0px;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		width:200px;
+		margin:0px;
+		text-align:left;
+	}
+	
+	.main-header .main-box .outer-container,
+	.delicous-section .delicous-inner .food-column .inner{
+		padding-left:0px;	
+	}
+	
+	.main-header .nav-outer,
+	.nav-outer .main-menu{
+		display:none;
+	}
+	
+	.main-header .nav-toggler{
+		display:block;
+	}
+	
+	.main-footer .posts-widget .widget-content,
+	.main-footer .posts-widget h2{
+		margin-left:0px;	
+	}
+	
+	.delicous-section .delicous-inner{
+		padding:72px 10px 55px 20px;
+	}
+	
+	.chef-info-section .content-column .inner-box{
+		margin-top:50px;
+	}
+	
+	.restaurant .images-column .inner-box{
+		padding-left:0px;
+	}
+	
+	.contact-banner .column{
+		text-align:center !important;
+	}
+	
+	.restaurant .column .inner-box{
+		padding-top:0px;
+		padding-right:0px;	
+	}
+	
+	.restaurant-discover .sec-title,
+	.contact-form .form-column{
+		margin-top:0px;	
+	}
+	
+	.sidebar-page-container.left-side-bar .content-side,
+	.sidebar-page-container.right-side-bar .content-side{
+		padding-left:15px;
+		padding-right:15px;	
+	}
+	
+}
+
+@media only screen and (max-width: 767px){
+	
+	.header-upper .logo-outer {
+		position:relative;
+		left:0px;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		width:100%;
+		margin:0px;
+	}
+	
+	.main-header .header-top .top-right,
+	.main-header .header-top .top-left{
+		width:100%;	
+	}
+	
+	.main-header .header-top .top-right ul li,
+	.main-header .header-top .top-left ul li{
+		margin:0px 10px;	
+	}
+	
+	.main-slider .tp-caption{
+		/*display:none !important;*/
+	}
+	
+	.main-header .header-top .top-right ul,
+	.main-header .header-top .top-left ul,
+	.header-top .social-icon,
+	.header-top .top-right ul{
+		text-align:center;
+		width:100%;
+		margin:5px 0px;
+		padding:0px;
+		border:0px;
+	}
+	
+	.cart-section .coupon-outer .pull-left,
+	.cart-section .coupon-outer .pull-right{
+		width:100%;	
+	}
+	
+	.main-header .header-top .top-right ul .eng-dropdown .dropdown-menu.style-one li{
+		padding:8px 0px;
+		margin:0px;
+	}
+	
+	.cart-section .coupon-outer .apply-coupon .form-group{
+		margin:0px 0px 15px;
+		width:100%;
+		padding-right:0px;	
+	}
+	
+	.cart-section .coupon-outer .apply-coupon .form-group input[type="text"]{
+		width:100%;
+	}
+	
+	.cart-section .coupon-outer .apply-coupon .form-group button{
+		position:relative;
+		text-align:center;
+		width:100%;
+	}
+	
+	.cart-section .coupon-outer .theme-btn,
+	.food-item .inner-box ul li .dots,
+	.food-item-two .inner-box ul li .dots{
+		width:100%;
+		display:block;
+		margin:10px 0px;	
+	}
+	
+	.food-item .inner-box,
+	.food-item-two .inner-box{
+		padding-left:0px;
+	}
+	
+	.special-section .opening-column{
+		padding-right:15px;
+	}
+	
+	.delicous-section .delicous-inner .food-column .inner h3{
+		text-align:center;	
+	}
+	
+	.food-item .image-box,
+	.food-item-two .image-box{
+		position:relative;
+		margin:0 auto;
+	}
+	
+	.food-item .inner-box,
+	.food-item .inner-box ul li.text,
+	.food-item-two .inner-box ul,
+	.food-item-two .inner-box ul li.text{
+		text-align:center;
+	}
+	
+	.food-item .inner-box ul li .title-box,
+	.food-item .inner-box li .price,
+	.food-item-two .inner-box ul li .title-box,
+	.food-item-two .inner-box li .price{
+		float:none;
+	}
+	
+	.main-header .header-top .top-right ul li{
+		padding:0px 18px;
+		border:0px;
+	}
+	
+	.food-item .inner-box ul li .title-box,
+	.food-item-two .inner-box ul li .title-box{
+		display: inline-block;
+    	margin-top: 10px;
+	}
+	
+	.sec-title-two h2,
+	.sec-title-one h2{
+		font-size:30px;
+	}
+	
+	
+	.page-title h3,
+	.parallax-image-section h2{
+		font-size:28px;
+		margin-bottom:10px;
+	}
+	
+	.page-title h2,
+	.parallax-image-section h4{
+		font-size:20px;	
+	}
+	
+	.sidebar-page-container.right-side-bar .content-side{
+		padding-right:15px;
+	}
+	
+	.restaurant-discover .sec-title{
+		margin-top:0px;	
+	}
+	
+}
+
+@media only screen and (max-width: 599px){
+	
+	.blog-details .comments-area .reply-comment{
+		margin-left:0px;	
+	}
+	
+	.opening-column .inner-box ul li{
+		margin-left:12px;
+		margin-right:12px;
+	}
+	
+	.dishes-carousel-section .owl-nav{
+		position:relative;
+		margin-top:20px;
+	}
+	
+	.recipe-tabs .tab-buttons{
+		margin-top:30px;
+	}
+	
+	.recipe-tabs .tab-buttons .tab-btn{
+		color:#000000;
+	}
+	
+	.recipe-tabs .tabs-container{
+		margin-top:30px;
+	}
+	
+	.product-details .basic-details .item-quantity{
+		margin-right:5px;
+	}
+	
+	.product-details .other-options .share-icon{
+		margin-left:5px;
+	}
+	
+	.checkout-page .default-links li{
+		padding:10px;
+	}
+	
+	.sidebar-page-container .comments-area .comment,
+	.sidebar-page-container .comments-area .reply-comment{
+		padding-left:0px;	
+	}
+	
+	.sidebar-page-container .comments-area .comment-box .author-thumb{
+		position:relative;
+		left:0px;
+		top:0px;
+		margin-bottom:20px;	
+	}
+}
+
+@media only screen and (max-width: 499px) {
+	
+	.main-header .main-box .logo-box .logo img{
+		max-width:70%;	
+	}
+	
+	.cart-section .apply-coupon .form-group{
+		padding-right:0px;
+	}
+	
+	.cart-section .apply-coupon .theme-btn{
+		position:relative;
+		margin-top:10px;
+		width:100%;
+		display:block !important;
+	}
+	
+	.cart-section .outer-box .select-amount .calculate-ship{
+		padding:10px 30px;
+	}
+	
+	.prod-tabs .reviews-container .review-box{
+		padding-left:0px;
+	}
+	
+	.prod-tabs .reviews-container .rev-thumb{
+		position:relative;
+		margin-bottom:15px;
+	}
+
+}
+
+
+
