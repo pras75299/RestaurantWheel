@@ -29,28 +29,28 @@
 - **About Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
 
-- **contact Page Image** 
+- **Contact Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/contact.png" width="50%" height="50%"/>
 
-- **cart Page Image** 
+- **Cart Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/cart.png" width="50%" height="50%"/>
 
-- **checkout Page Image** 
+- **Checkout Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/checkout.png" width="50%" height="50%"/>
 
-- **booktable Page Image** 
+- **Booktable Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/booktable.png" width="50%" height="50%"/>
 
-- **gallery Page Image** 
+- **Gallery Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/gallery.png" width="50%" height="50%"/>
 
-- **ordernow Page Image** 
+- **Ordernow Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/ordernow.png" width="50%" height="50%"/>
 
-- **signin Page Image** 
+- **Signin Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/sign.png" width="50%" height="50%"/>
 
-- **snacks Page Image** 
+- **Snacks Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/snack.png" width="50%" height="50%"/>
 
 
